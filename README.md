@@ -1,4 +1,4 @@
-# Transceiver-SI4463-
+# Transceiver-SI4463
 Код для приёмопередающих модулей на базе трансивера SI4463
 
 * Arduino_STM32-master - ядро для STM32 микроконтроллеров, позволяющее работать с ними в Arduino IDE. (Источник: https://github.com/rogerclarkmelbourne/Arduino_STM32, версия неизвестна).
